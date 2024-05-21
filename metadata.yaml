@@ -1,0 +1,30 @@
+_repo: The-other-half_73550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabin, Edwin L. (Edwin Legrand)
+    alias: Sabin, Edwin Legrand
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '9476'
+    url: http://www.gutenberg.org/2009/agents/9476
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_L._Sabin
+description: ''
+gutenberg_issued: '2024-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73550'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV07N02192602
+pgterms:marc905: 20240306195706sabin
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The other half
+url: http://www.gutenberg.org/ebooks/73550
